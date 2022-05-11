@@ -2,6 +2,7 @@
 <h3 align="center">I'm a software engineer at 100Devs</h3>
 
 - 👨‍💻 All of my projects are available at [https://carolchoi.netlify.app/](https://carolchoi.netlify.app/)
+<img src="https://github.com/saekimidori/Portfolio/blob/main/preview.gif" width="100%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
