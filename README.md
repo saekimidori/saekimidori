@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 I'm Carol</h1>
 <h3 align="center">I'm a software engineer at 100Devs</h3>
 
+<!-- <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=03cece&style=for-the-badge"> -->
+
 Available for freelancing projects
 
 - I’m looking to collaborate on **open source projects**
@@ -24,4 +26,5 @@ Available for freelancing projects
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saekimidori&theme=gotham" alt="saekimidori" width="33%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saekimidori&show_icons=true&locale=en&layout=compact&theme=gotham" alt="saekimidori" width="33%"/> <img src="https://github-readme-stats.vercel.app/api?username=saekimidori&show_icons=true&locale=en&theme=gotham" alt="saekimidori" width="33%"/> </p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saekimidori&show_icons=true&locale=en&layout=compact&theme=gotham" alt="saekimidori" width="40%"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saekimidori&theme=gotham" alt="saekimidori" width="49%"/> <img src="https://github-readme-stats.vercel.app/api?username=saekimidori&show_icons=true&locale=en&theme=gotham" alt="saekimidori" width="49%"/> </p>
